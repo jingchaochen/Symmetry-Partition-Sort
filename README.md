@@ -1,6 +1,6 @@
 Adaptive Symmetry Partition Sort
 
-AdaAdpSymmetryPSort.cpp
+AdpSymmetryPSort.cpp
 
 https://github.com/jingchaochen/Symmetry-Partition-Sort/blob/master/AdpSymmetryPSort.cpp
 
