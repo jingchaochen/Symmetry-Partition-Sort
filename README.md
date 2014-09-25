@@ -1,17 +1,17 @@
 AdpSymmetryPSort.cpp
 https://github.com/jingchaochen/Symmetry-Partition-Sort/blob/master/AdpSymmetryPSort.cpp
+
+For the other version such as AdoSymmetryPSort.cpp, see http://www.gtoal.com/languages/bcpl/BCPL/bcplprogs/sort/
+or
+https://docs.google.com/file/d/0BxAfEASHYgsIUFE0amdRWTFFbXM/edit?pli=1
+
 Date : 2011/03/04, version 2.0
 Copyright (C) 2012, Jingchao Chen                                      
   
 This is a C++ source code for Symmetry Partition Sort, which is the fastest practical sorting known so far. 
-See paper http://onlinelibrary.wiley.com/doi/10.1002/spe.851/abstract                                 
+See paper http://onlinelibrary.wiley.com/doi/10.1002/spe.851/abstract
 
-For the other version of this library, see http://www.gtoal.com/languages/bcpl/BCPL/bcplprogs/sort/
-or
-https://docs.google.com/file/d/0BxAfEASHYgsIUFE0amdRWTFFbXM/edit?pli=1
 
-   Contact: chen-jc@dhu.edu.cn or chenjingchao@yahoo.com                  
-                                                                             
  Permission to use, copy, modify, and distribute this software and its    
  documentation with or without modifications and for any purpose and      
  without fee is hereby granted, provided that any copyright notices       
