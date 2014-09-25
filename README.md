@@ -1,4 +1,5 @@
 Adaptive Symmetry Partition Sort
+
 AdaAdpSymmetryPSort.cpp
 
 https://github.com/jingchaochen/Symmetry-Partition-Sort/blob/master/AdpSymmetryPSort.cpp
@@ -8,6 +9,7 @@ or
 https://docs.google.com/file/d/0BxAfEASHYgsIUFE0amdRWTFFbXM/edit?pli=1
 
 Date : 2011/03/04, version 2.0
+
 Copyright (C) 2012, Jingchao Chen                                      
   
 This is a C++ source code for Symmetry Partition Sort, which is the fastest practical sorting known so far. 
