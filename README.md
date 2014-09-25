@@ -1,3 +1,14 @@
+<!-- 使用该代码即表示您同意接受 Google 自定义搜索服务条款。 -->
+<!-- 有关服务条款，请访问 http://www.google.com/cse/docs/tos.html?hl=zh-CN -->
+<form name="cse" id="searchbox_demo" action="http://www.google.com/cse">
+  <input type="hidden" name="cref" value="" />
+  <input type="hidden" name="ie" value="utf-8" />
+  <input type="hidden" name="hl" value="zh-CN" />
+  <input name="q" type="text" size="40" />
+  <input type="submit" name="sa" value="搜索" />
+</form>
+<script type="text/javascript" src="https://www.google.com/cse/tools/onthefly?form=searchbox_demo&lang=zh-CN"></script>
+                                
 Adaptive Symmetry Partition Sort
 
 AdpSymmetryPSort.cpp
