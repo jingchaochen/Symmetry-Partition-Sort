@@ -1,4 +1,6 @@
-AdpSymmetryPSort.cpp
+Adaptive Symmetry Partition Sort
+AdaAdpSymmetryPSort.cpp
+
 https://github.com/jingchaochen/Symmetry-Partition-Sort/blob/master/AdpSymmetryPSort.cpp
 
 For the other version such as AdoSymmetryPSort.cpp, see http://www.gtoal.com/languages/bcpl/BCPL/bcplprogs/sort/
